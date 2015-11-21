@@ -1,0 +1,61 @@
+﻿.background-atomic-default {
+    background-color: #808080;
+}
+
+.color-atomic-default {
+    color: #ffd800
+}
+
+.background-atomic-dark {
+    background-color: #4d4d4d;
+}
+
+.background-atomic-light {
+    background-color: #ffd800
+}
+
+.color-atomic-light {
+    color: #ffffff
+}
+
+.color-atomic-gray {
+    color: #808080
+}
+
+.color-facebook {
+    color: #6d84b4
+}
+
+.font-size-facebook {
+    font-size: x-large
+}
+
+.contact-map-holder {
+	width:60% !important;
+	height:325px;
+	display:block;
+	border-top:1px solid #999;
+	border-bottom:1px solid #999;
+	text-align:center;
+	margin-top:40px !important;
+	margin-bottom:30px !important;
+	padding:0;
+}
+
+ul.leaders {
+    max-width: 40em;
+    padding: 0;
+    overflow-x: hidden;
+    list-style: none}
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+ }
+ul.leaders span:first-child {
+    padding-right: 0.33em;
+    background: inherit}
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: inherit}
